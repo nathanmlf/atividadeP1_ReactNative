@@ -1,0 +1,9 @@
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
+  mainContainer: {
+    flex: 1,
+    padding: 20,
+    backgroundColor: "#161616",
+  },
+});
