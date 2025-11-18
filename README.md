@@ -17,4 +17,4 @@ A página do iniciar é o App1, a página principal é o App2, basta mudar a num
 #### Página Principal
 | Modelo (Original) | Seu Clone |
 | :---: | :---: |
-| ![Modelo da Página Principal](https://github.com/user-attachments/assets/0678b230-079c-4531-9623-199e485a35c0) | ![Clone da Página Principal](https://github.com/user-attachments/assets/15ea9103-5b30-4399-bfb7-15356c580a79) |
+| ![Modelo da Página Principal](https://github.com/user-attachments/assets/0678b230-079c-4531-9623-199e485a35c0) | ![Clone da Página Principal](https://github.com/user-attachments/assets/ab1724e8-d333-442f-8ee8-eb4ab872b0f9) |
