@@ -4,14 +4,17 @@ export const styles = StyleSheet.create({
   BannerContainer: {
     backgroundColor: "#144CAB",
     marginTop: 20,
-    height: 160,
+    height: 140,
     borderRadius: 20,
     flexDirection: "row",
+    borderWidth: 2,
+    overflow: "hidden",
   },
   BannerTextContainer: {
     justifyContent: "space-between",
     paddingVertical: 20,
     paddingLeft: 20,
+    gap: 20,
   },
   BannerText: {
     fontSize: 20,
@@ -21,7 +24,7 @@ export const styles = StyleSheet.create({
   },
   BannerButtonContainer: {
     width: 120,
-    height: 40,
+    paddingVertical: 10,
     justifyContent: "center",
     alignItems: "center",
     backgroundColor: "#292929",
@@ -29,12 +32,14 @@ export const styles = StyleSheet.create({
   },
   BannerButtonText: {
     color: "#e1e1e1",
+    fontSize: 14,
   },
   BannerImageContainer: {
-    backgroundColor: "#144CAB",
+    width: 180,
   },
   image: {
-    width: 140,
-    height: 160,
+    width: "100%",
+    height: "100%",
+    resizeMode: "cover",
   },
 });

@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
   },
   suggestionsHeadTextAside: {
     color: "#e1e1e1",
-    fontSize: 16,
+    fontSize: 14,
   },
   suggestionsMainContainer: {
     marginTop: 20,
@@ -34,7 +34,7 @@ export const styles = StyleSheet.create({
     borderRadius: 10,
     gap: 10,
     width: 75,
-    height: 90,
+    height: 80,
   },
   suggestionsCardText: {
     color: "#e1e1e1",

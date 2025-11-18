@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, Image } from "react-native";
+import { View, Text, Image, TouchableOpacity } from "react-native";
 import { styles } from "./styles";
 import fusca from "../../assets/fusca.png";
 import cardbox from "../../assets/cardbox.png";

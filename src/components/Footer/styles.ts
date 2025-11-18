@@ -5,18 +5,20 @@ export const styles = StyleSheet.create({
     flex: 1,
     flexDirection: "row",
     justifyContent: "space-between",
-    alignContent: "center",
+    alignItems: "center",
     marginTop: 10,
   },
   FooterCardContainer: {
     alignItems: "center",
+    justifyContent: "center",
   },
   FooterText: {
     color: "#E1e1e1",
-    fontSize: 12,
+    fontSize: 14,
   },
   image: {
-    width: 30,
-    height: 30,
+    width: 40,
+    height: 40,
+    resizeMode: "contain",
   },
 });
